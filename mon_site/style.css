@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(155, 154, 152);
+    box-sizing: border-box;
+    
+}
+
+a{
+    text-align: center;
+    text-decoration-color: black;
+    margin: 0%;
+}
+
+ul{
+    display: flex;
+
+}
+
+text{
+    color: black;
+}
+
+img{
+    margin: 0%;
+    justify-content: center;
+}
